@@ -1,4 +1,10 @@
  <footer>
-        <p>Project maintained by <a href="https://github.com/gterzian">gterzian</a></p>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></small></p>
+   <ul>
+        {% for post in site.posts %}
+
+        <li><a href='{{site.baseurl}}{{post.url}}'>{{post.title}}</a></li>
+       
+
+        {% endfor %}
+      </ul>
  </footer>
