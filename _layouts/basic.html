@@ -1,0 +1,44 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <title>Django-cookbook by gterzian</title>
+    <link rel="stylesheet" href="{{ site.baseurl}}/stylesheets/styles.css">
+    <link rel="stylesheet" href="{{ site.baseurl}}/stylesheets/pygment_trac.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script src="{{ site.baseurl}}/javascripts/main.js"></script>
+    <!--[if lt IE 9]>
+      <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+  </head>
+  <body>
+
+      <header>
+        <h1>Django-cookbook</h1>
+        <p>{{ page.title }}</p>
+      </header>
+
+      <div id="banner">
+        <span id="logo"></span>
+
+        <a href="{{ site.url}}" class="button fork"><strong>Back to all recipes</strong></a>
+        <div class="downloads">
+
+        </div>
+      </div><!-- end banner -->
+
+    <div class="wrapper">
+       <section>
+        {{ content }}
+        </section> 
+		{% include disqus.html %}
+    </div>
+	
+    {% include footer.html %}
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+    
+  </body>
+</html>
