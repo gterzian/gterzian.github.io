@@ -12,18 +12,12 @@ Hello World!
 
 
 
-####Signals recipes
-{% for post in site.categories.signals %}
 
-* [{{post.title}}]({{site.baseurl}}{{post.url}})
+{% for post in site.posts %}
 
-{% endfor %}
+####{{post.title}}
 
-####Models recipes
-
-{% for post in site.categories.models %}
-
-* [{{post.title}}]({{site.baseurl}}{{post.url}})
+{{post.content}}
 
 {% endfor %}
 
