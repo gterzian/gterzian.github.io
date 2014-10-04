@@ -1,7 +1,7 @@
 ---
-title: Manipulating m2m values of models with signals
+title: A beautiful day in Lujiazui
 layout: basic
-category: signals
+category: Shanghai
 ---
 
 
