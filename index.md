@@ -8,7 +8,7 @@ layout: front
 Hello World!
 ===============
 
-[My helpful screenshot]({{ site.url }}/assets/IMG_4221.jpg)
+![My helpful screenshot]({{ site.url }}/assets/IMG_4221.jpg)
 
 
 
