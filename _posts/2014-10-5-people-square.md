@@ -12,7 +12,7 @@ People's square
 
 ![My helpful screenshot]({{ site.url }}/assets/psquare1.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515642/psquare2_iiearz.jpg)
-![My helpful screenshot]({{ site.url }}/assets/psquare3.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515069/psquare3_r2vttt.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/psquare4.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/psquare5.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/psquare6.jpg)

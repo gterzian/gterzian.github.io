@@ -13,7 +13,7 @@ Music show in the Shanghai subway
 ![My helpful screenshot]({{ site.url }}/assets/metroshow1.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/metroshow2.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/metroshow3.jpg)
-![My helpful screenshot]({{ site.url }}/assets/metroshow4.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515966/metroshow4_qbwrfz.jpg)
 
 
 

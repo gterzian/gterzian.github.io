@@ -21,7 +21,7 @@ Sunset over Lujiazui
 ![My helpful screenshot]({{ site.url }}/assets/sunset9.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/sunset10.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/sunset11.jpg)
-![My helpful screenshot]({{ site.url }}/assets/sunset12.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515983/sunset12_a3vnje.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/sunset13.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/sunset14.jpg)
 
