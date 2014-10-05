@@ -16,4 +16,3 @@ The Ritz in Shanghai
 ![My helpful screenshot]({{ site.url }}/assets/ritz4.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/ritz5.jpg)
 
-ritz
