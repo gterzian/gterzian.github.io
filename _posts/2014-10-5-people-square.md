@@ -16,5 +16,6 @@ People's square
 ![My helpful screenshot]({{ site.url }}/assets/psquare4.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/psquare5.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/psquare6.jpg)
+![My helpful screenshot]({{ site.url }}/assets/psquare7.jpg)
 
 
