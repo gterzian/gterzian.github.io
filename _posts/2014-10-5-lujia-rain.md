@@ -10,9 +10,9 @@ category: Shanghai
 
 ####Leaving the Ritz, enjoying  a walk in the mist and rain
 
-![My helpful screenshot]({{ site.url }}/assets/lujiarain1.jpg)
-![My helpful screenshot]({{ site.url }}/assets/lujiarain2.jpg)
-![My helpful screenshot]({{ site.url }}/assets/lujiarain3.jpg)
-![My helpful screenshot]({{ site.url }}/assets/lujiarain4.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412516154/lujiarain1_xavidz.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515921/lujiarain2_yzb9qb.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515610/lujiarain3_e9uz5m.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412515663/lujiarain4_ugiplb.jpg)
 
 
