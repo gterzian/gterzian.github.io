@@ -8,7 +8,7 @@ category: Shanghai
 Sunset over Lujiazui
 ====================
 
-####Forget from which hotel, think it's from the Park Hyatt bar. In any case it's from the top of that building that looks like a bottle opener and was designed by a Japanese architect.
+####Forgot the hotel name, think it's from the Park Hyatt bar. In any case it's from the top of that building that looks like a bottle opener and was designed by a Japanese architect.
 
 ![My helpful screenshot]({{ site.url }}/assets/sunset1.jpg)
 ![My helpful screenshot]({{ site.url }}/assets/sunset2.jpg)
