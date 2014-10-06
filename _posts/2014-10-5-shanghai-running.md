@@ -1,5 +1,5 @@
 ---
-title: The other favorite national past-time: fast walking
+title: The other favorite national past-time, fast walking
 layout: basic
 category: Shanghai
 ---

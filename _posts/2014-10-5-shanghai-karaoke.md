@@ -1,5 +1,5 @@
 ---
-title: And off course the favorite national past-time: Karaoke
+title: And off course the favorite national past-time, Karaoke
 layout: basic
 category: Shanghai
 ---
