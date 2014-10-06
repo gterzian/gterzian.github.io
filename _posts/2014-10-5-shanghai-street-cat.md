@@ -9,6 +9,6 @@ Lots of dancers in the streets of Shanghai!
 ===========================================
 
 
-![My helpful screenshot]({{ site.url }}/assets/dance1.jpg)
-![My helpful screenshot]({{ site.url }}/assets/dance2.jpg)
-![My helpful screenshot]({{ site.url }}/assets/dance3.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514554/dance1_rjuvyc.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514668/dance2_ya1rh5.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514908/dance3_hmtipi.jpg)
