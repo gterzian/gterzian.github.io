@@ -1,5 +1,6 @@
 ---
 title: Chinese style recycling
+layout: basic
 category: Shanghai
 ---
 
