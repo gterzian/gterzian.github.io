@@ -16,8 +16,8 @@ Xintiandi
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663221/IMG_6464_b2lf59.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663247/IMG_6457_ps8tj1.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663207/IMG_6444_gn2dt8.jpg)
-![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663248/IMG_6454_u2itlp.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663291/IMG_6491_vlwous.jpg)
+![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663248/IMG_6454_u2itlp.jpg)
 
 
 
