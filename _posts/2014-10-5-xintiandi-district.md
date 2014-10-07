@@ -1,14 +1,14 @@
 ---
-title: Xintiandi
+title: Xintiandi, a high-end shopping and living district 
 layout: basic
 category: Shanghai
 ---
 
 
-Xintiandi
-=========
+Xintiandi, a high-end shopping and living district 
+==================================================
 
-####High end shopping and living district not far from People's Square. The whiteboard at the bottom is a list of advertised real estate prices. the 万 character stands for 10.000 so 1180万 is 111.800.000 RMB, about 18 million USD for 170m2. Considering the average salary in Shanghai is 800 USD, I think this is more expensive than NYC or SF.
+####High-end shopping and living district not far from People's Square. The whiteboard at the bottom is a list of advertised real estate prices. the 万 character stands for 10.000 so 1180万 is 111.800.000 RMB, about 18 million USD for 170m2. Considering the average salary in Shanghai is 800 USD, I think this is more expensive than NYC or SF.
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412663238/IMG_6473_ogwk54.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412664281/IMG_6465_pnjkpj.jpg)
