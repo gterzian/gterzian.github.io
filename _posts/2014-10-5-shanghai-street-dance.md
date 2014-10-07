@@ -5,8 +5,10 @@ category: Shanghai
 ---
 
 
-Lots of dancers in the streets of Shanghai!
-===========================================
+Lots of dancers in the street activities in Shanghai
+====================================================
+
+####Street karaoke, group dancing and gymnastic, you name we've got it...
 
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514554/dance1_rjuvyc.jpg)
