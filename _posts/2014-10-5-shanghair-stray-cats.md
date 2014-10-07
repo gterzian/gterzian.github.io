@@ -8,7 +8,7 @@ category: Shanghai
 Lots of stray cats in Shanghai
 ==============================
 
-####This one is particularly ferocious
+####This is a particularly ferocious one, with beautiful camouflage
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514179/cat2_oilvte.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514168/cat3_lbldxj.jpg)
