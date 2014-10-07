@@ -8,7 +8,7 @@ category: Shanghai
 Lots of street activities in Shanghai
 =====================================
 
-####Street karaoke, group dancing and gymnastic, you name we've got it...
+####Street karaoke, group dancing and gymnastic, you name it we've got it...
 
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514554/dance1_rjuvyc.jpg)
