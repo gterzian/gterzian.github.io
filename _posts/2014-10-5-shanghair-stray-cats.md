@@ -8,7 +8,7 @@ category: Shanghai
 Lots of stray cats in Shanghai
 ==============================
 
-####This one seems to think he's a tiger
+####This one is particularly ferocious
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514179/cat2_oilvte.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412514168/cat3_lbldxj.jpg)
