@@ -8,7 +8,7 @@ category: Shanghai
 Zhongshan, a slightly off center neighborhood of Shanghai
 =========================================================
 
-####As always you'll find the obligatory giant malls and lighted-up builidng. Lights go out at ten folks! 
+####As always you'll find the obligatory giant malls and lighted-up builidng. Its lights-out at ten folks! 
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412587393/zhongshan1_pd8y0c.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412587527/zhongshan2_bi7e1s.jpg)
