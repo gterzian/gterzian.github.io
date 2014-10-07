@@ -1,10 +1,10 @@
 ---
-title: Chinese-style recycling
+title: Chinese style recycling
 category: Shanghai
 ---
 
 
-Chinese-style recycling
+Chinese style recycling
 =======================
 
 ####One of my favorite sights on the street. Lots of people are going around collecting all sorts of used stuff for recylcing. You cannot believe your eyes when you see all that stuff piled up on a bike or scooter. If you give people a monetary incentive...
