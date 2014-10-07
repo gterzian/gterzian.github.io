@@ -8,7 +8,7 @@ category: Shanghai
 More English meetups
 ====================
 
-####Our English practice meetups have grown quite a but recently, trying to get more native speakers involved and start offering paid lessons.
+####Our English practice meetups have grown quite a bit recently, we're now trying to get more native speakers involved and start offering paid lessons.
 
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412612184/IMG_6711_vvxjbc.jpg)
 ![My helpful screenshot](http://res.cloudinary.com/djfwqxjdx/image/upload/v1412611844/IMG_6704_pbkl3a.jpg)
